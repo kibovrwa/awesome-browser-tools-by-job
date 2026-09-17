@@ -4,6 +4,13 @@ A short, opinionated pointer list. Full curated directory:
 
 **[Web Tools List](https://webtoolslist.com)** — online tools grouped by the job (generators, converters, editors, calculators, and more).
 
+## Sister tools (same network)
+
+- **[Remove AI Meta](https://removeaimeta.com)** — Guides and tools to remove or inspect AI metadata (C2PA / IPTC) in images and files.
+- **[SRT to Word](https://srt2word.com)** — Convert subtitle SRT files to editable Word documents online.
+- **[ChatGPT to Word](https://chatgpt2word.com)** — Export ChatGPT conversations to Word (.docx) with readable formatting.
+- **[Reel Song Finder](https://reelsongfinder.com)** — Find music used in Instagram Reels and short videos.
+
 ## Guides
 
 - [Free PDF tools in the browser](https://webtoolslist.com/guides/free-pdf-tools-in-the-browser)
