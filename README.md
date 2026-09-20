@@ -5,6 +5,7 @@ A short, opinionated pointer list. Full curated directory:
 **[Web Tools List](https://webtoolslist.com)** — online tools grouped by the job (generators, converters, editors, calculators, and more).
 
 ## Sister tools (same network)
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free MIT browser tools for freelancers: invoice, quote, deposit calculator, hourly vs fixed-price, late-fee, timesheet, and client close docs. No signup.
 
 - **[Remove AI Meta](https://removeaimeta.com)** — Guides and tools to remove or inspect AI metadata (C2PA / IPTC) in images and files.
 - **[SRT to Word](https://srt2word.com)** — Convert subtitle SRT files to editable Word documents online.
