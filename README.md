@@ -10,6 +10,7 @@ A short, opinionated pointer list. Full curated directory:
 - **[SRT to Word](https://srt2word.com)** — Convert subtitle SRT files to editable Word documents online.
 - **[ChatGPT to Word](https://chatgpt2word.com)** — Export ChatGPT conversations to Word (.docx) with readable formatting.
 - **[Reel Song Finder](https://reelsongfinder.com)** — Find music used in Instagram Reels and short videos.
+- **[Minecraft Schematic Generator](https://minecraftschematicgenerator.com)** — Free AI text-to-`.litematic` generator for Minecraft Java Edition (Litematica).
 
 ## Guides
 
