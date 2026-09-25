@@ -92,11 +92,21 @@ Compare a Wechsler GAI with full-scale IQ, or estimate GAI with a nine-task brow
 
 - [How to read a GAI vs FSIQ gap on a Wechsler report on B2SHARE](https://b2share.eudat.eu/records/tsmqk-4an64)
 - [GAI vs IQ on Directory Index](https://directory-index.com/education/gai-vs-iq/)
+- [GAIvsIQ on F6S](https://www.f6s.com/software/gaivsiq)
+- [GAIvsIQ Laboratory on Flickr](https://www.flickr.com/people/204927900@N02/)
+- [GAIvsIQ on Google Sites](https://sites.google.com/view/gaivsiq)
+- [How to read a GAI vs FSIQ gap](https://wheat-earthquake-f7q.julius.site/)
+- [How to read a GAI vs FSIQ gap on a Wechsler report on LDbase](https://ldbase.org/projects/183d2b1f-8c4b-4fa3-b1de-d4859d718424)
+- [I built a GAI vs IQ calculator that only subtracts two official scores](https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de)
 - [GAIvsIQ on NewName.ai](https://newname.ai/products/gaivsiq-gai-vs-full-scale-iq-laboratory)
 - [GAIvsIQ on OER World Map](https://oerworldmap.org/resource/urn:uuid:a7b7a3b6-baa9-451b-8654-a3ae2f4bc5a9)
+- [How to read a GAI vs FSIQ gap on a Wechsler report on OSF](https://osf.io/69me4/)
+- [GAIvsIQ on SaaSHub](https://www.saashub.com/gaivsiq)
 - [GAI vs FSIQ on Scrapbox](https://scrapbox.io/gaivsiq/GAI_vs_FSIQ)
+- [How to read a GAI vs FSIQ gap on a Wechsler report on Slides](https://slides.com/gaivsiqlab/how-to-read-a-gai-vs-fsiq-gap-on-a-wechsler-report)
 - [GAI vs IQ Calculator on Viesearch](https://viesearch.com/288hd/gai-vs-iq-calculator)
 - [How to read a GAI vs FSIQ gap on a Wechsler report](https://gaivsiq.wordpress.com/2026/09/07/how-to-read-a-gai-vs-fsiq-gap-on-a-wechsler-report/)
+- [How to read a GAI vs FSIQ gap on a Wechsler report on Zenodo](https://zenodo.org/records/22643625)
 
 ## [Mechangelion](https://mechangelion.com)
 
