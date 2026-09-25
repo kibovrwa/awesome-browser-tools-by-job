@@ -4,6 +4,10 @@ A short, opinionated pointer list. Full curated directory:
 
 **[Web Tools List](https://webtoolslist.com)** — online tools grouped by the job (generators, converters, editors, calculators, and more).
 
+## Where these tools are listed
+
+[Browser tools and where they are listed](listings.md)
+
 ## Sister tools (same network)
 
 - **[Remove AI Meta](https://removeaimeta.com)** — Guides and tools to remove or inspect AI metadata (C2PA / IPTC) in images and files.
