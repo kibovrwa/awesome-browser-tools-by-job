@@ -121,3 +121,10 @@ A portrait robot-fighting game you can play in the browser.
 Rank your own clips into a vertical Top-N countdown and export an MP4 in the browser.
 
 - [ShortsRank on Directory Index](https://directory-index.com/technology/shortsrank/)
+
+## [AstralHoro](https://astralhoro.com)
+
+A western birth chart. Without a birth time, the rising sign stays blank.
+
+- [AstralHoro](https://astralhoro.com)
+- [Browser tools grouped by job](https://github.com/kibovrwa/awesome-browser-tools-by-job)
