@@ -31,3 +31,6 @@ A short, opinionated pointer list. Full curated directory:
 - [Builders](https://webtoolslist.com/builders)
 
 Not affiliated with the tools listed on Web Tools List. Submit a tool: https://webtoolslist.com/submit
+## See also
+
+- [Featured on: third-party pages that mention our tools](https://kibovrwa.github.io/featured-on/)
